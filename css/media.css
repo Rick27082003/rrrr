@@ -1,0 +1,2372 @@
+@media(max-width:2000px){
+   .pgb{
+    display: none;
+   } 
+   .pbg{
+    width: 754px;
+    height: 334px;
+   }
+   .igm{
+    display: none;
+   }
+   .ms{
+    display: none;
+   }
+   .iso{
+    display: none;
+   }
+   .sio{
+    display: none;
+   }
+   .ultra__text img {
+    padding-left: 170px;
+    position: absolute;
+    top: 2705px;
+}
+.footer__text p {
+    margin-left: 469px;
+    width: 396px;
+}
+.ultra__text img {
+    padding-left: 170px;
+    position: absolute;
+    top: 2825px;
+}
+}
+@media(max-width:1399px){
+    .ioss{
+        margin-left: -15px;
+    }
+    .ultra__text img {
+        padding-left: 139px;
+        position: absolute;
+        top: 2825px;
+    }
+    .footer__text p {
+        margin-left: 375px;
+        width: 396px;
+    }
+
+}
+@media(max-width:1360px){
+    .ioss{
+        margin-left: -40px;
+    }
+    .pbg{
+        width: 700px;
+        height: 334px;
+       }
+}
+@media(max-width:1325px){
+    .pbg{
+        width: 700px;
+    }
+    .pgb{
+        display: none;
+    }
+    .ios__text {
+        
+        margin-right: 98px;
+    }
+    .android__text {
+        
+        margin-left: 125px;
+    }
+    .ultra__text img {
+        top: 2827px;
+    }
+    .igm{
+        display: none;
+    }
+    .iso{
+        display: none;
+    }
+    .ms{
+        display: none;
+    }
+    .sio{
+        display: none;
+    }
+}
+@media(max-width:1316px){
+    .pbg{
+        width: 700px;
+    }
+    .ultra__text img {
+        position: absolute;
+        top: 2810px;
+    }
+    .ios__text {
+        margin-right: 79px;
+    }
+}  
+@media(max-width:1272px){
+    .pbg{
+        width: 675px;
+    }
+    .android__text {
+        margin-left: 95px;
+    }
+    .ios__text {
+        margin-right: 70px;
+    }
+    .star{
+        position: absolute;
+        top: 2675px;
+    }
+    .ios__text {
+        margin-right: 55px;
+    }
+    .ultra__text img {
+        position: absolute;
+        top: 2798px;
+    }
+}
+@media(max-width:1230px){
+    .pbg{
+        width: 670px;
+    }
+    .ioss{
+        margin-left: -20px;
+    }
+    .ultra__text img {
+        position: absolute;
+        top: 2777px;
+    }
+    .ios__text {
+        margin-right: 32px;
+    }
+    
+} 
+@media(max-width:1199px){
+    .pbg{
+        width: 630px;
+    }
+    /* .stone{
+        padding-left: 34px;
+    position: absolute;
+    bottom: 280px;
+    } */
+    .android__text {
+        margin-left: 46px;
+        font-size: 15px;
+    
+    }
+    .sm{
+        width: 375px;
+    }
+    .ioss{
+        margin-left: 20px;
+        width: 375px;
+        height: 380px;
+    }
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2592px;
+    }
+    .header__automation img {
+        padding-left: 34px;
+        position: absolute;
+        bottom: 258px;
+    } 
+    .default__button button {
+        padding-top: 25px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 25px;
+    }   
+    .footer__text p {
+        margin-left: 283px;
+    }    
+}
+@media(max-width:1150px){
+    .pbg{
+        width: 600px;
+    }
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2578px;
+    }
+}  
+@media(max-width:1145px){
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2578px;
+    }
+} 
+@media(max-width:1115px){
+    .pbg{
+        width: 600px;
+    }
+}   
+@media(max-width:1105px){
+    .pbg{
+        width: 600px;
+    }
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2551px;
+    }
+} 
+@media(max-width:1080px){
+    .pbg{
+        width: 575px;
+        
+       }
+}
+@media(max-width:1030px){
+    .pbg{
+        width: 570px;
+    }
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2528px;
+    }
+}
+@media(max-width:1024px){
+    .pbg{
+        width: 560px;
+    }
+    .ioss {
+        margin-left: -5px;
+        width: 375px;
+        height: 380px;
+    }
+    .ultra__text img {
+        padding-left: 111px;
+        top: 2525px;
+    }
+    .ios__text {
+        margin-right: 50px;
+    }
+}   
+@media(max-width:1015px){
+    .ioss {
+        margin-left: -15px;
+        width: 375px;
+        height: 380px;
+    }
+.sm {
+    width: 351px;
+}
+.ultra__text img {
+    padding-left: 118px;
+    top: 2529px;
+    width: 183px;
+}
+}
+@media(max-width:991px){
+    .pbg{
+        width: 464px;
+        height: 250px;
+    }
+    .android__img{
+        display: none;
+    }
+    .ioss{
+        display: none;
+    }
+    .ultra__text img {
+        padding-left: 106px;
+        top: 4693px;
+        width: 167px;
+    }
+    .header__automation img {
+        bottom: 225px;
+        margin-left: -20px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 164px;
+    }
+    .android__text{
+        text-align: center;
+        width: 556px;
+        margin-left: 100px;
+    }
+    .header__automation h3 {
+        padding-left: 17px;
+        font-size: 19px;
+    }
+    .header__automation p {
+        padding-left: 20px;
+        padding-bottom: 54px;
+        font-size: 17px;
+    }
+    .header__log h3 {
+        color: #fff;
+        font-size: 23px;
+        margin-top: 23px;
+    }
+    .android__text h3 {
+        text-align: center;
+    }
+    .android__text h4 {
+        text-align: center;
+    }
+    .android__tex{
+        width: 554px;
+    }
+    .ios__tex{
+        width: 554px;
+    }
+     .igm{
+        position: relative;
+      display: flex;
+      bottom: 37px;
+      margin-left: 347px;
+        justify-content: space-around;  
+    }
+    .android__but {
+        display: flex;
+        width: 186px;
+        margin-left: 188px;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+    .android__text button{
+       margin-bottom: 16px; 
+    }
+    .android__but .but {
+        margin-left: -30px;
+        width: 276px;
+    }  
+    .ms {
+        display: flex;
+        margin-left: 59px;
+        margin-bottom: 31px;
+    }
+    .ios h3, h4 { 
+        text-align: center;
+    }
+    .iso{
+        position: relative;
+        display: flex;
+        margin-left: 307px;
+        bottom: 36px;
+    }
+    .ios__text{
+        text-align: center;
+        width: 556px;
+        margin-left: 100px;
+    }
+    .default__button button {
+        padding-top: 17px;
+        padding-left: 64px;
+        padding-right: 63px;
+        padding-bottom: 18px;
+    }
+    .ios__but {
+        display: flex;
+        width: 186px;
+        margin-left: 188px;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+    .ios__but .but {
+        margin-top: 16px;
+        margin-left: -30px;
+        width: 276px;
+    }  
+    .sio {
+        display: flex;
+        position: relative;
+        left: -146px;
+        width: 480px;
+        height: 640px;
+        margin-bottom: 66px;
+    }
+    .email{
+        width: 707px;
+        margin-left: 259px;
+    }
+}
+@media(max-width:965px){
+    .pbg {
+        width: 436px;
+        height: 250px;
+    }
+}
+@media (max-width: 920px){
+    .pbg {
+        width: 420px;
+    }
+.ultra {
+    text-align: center;
+    margin-top: 16px;
+}
+.ultra__text img {
+    padding-left: 106px;
+    top: 4706px;
+    width: 167px;
+}
+}
+@media (max-width: 895px){
+.ultra__text img {
+    padding-left: 106px;
+    top: 4662px;
+    width: 167px;
+}
+}  
+@media (max-width: 850px){
+.pbg {
+    width: 385px;
+}
+}
+@media(max-width:800px){
+    .pbg {
+        margin-left: -15px;
+        width: 385px;
+    }
+}
+@media(max-width:772px){
+    .pbg {
+        width: 375px;
+        margin-left: -15px;
+    }
+    .ultra__text img {
+        padding-left: 106px;
+        top: 4655px;
+        width: 167px;
+    }
+}
+@media(max-width:767px){
+.pbg{
+    display: none;
+} 
+.pgb {
+    display: block;
+  width: 500px;
+  margin-left: 25px;  
+} 
+.header__automation{
+    display: block;
+    margin-left: 72px;
+}
+.header__name p {
+    display: none;
+} 
+.header__but{
+    margin-left: 120px;
+} 
+.header__but button{
+    margin-left: 19px;
+}
+.header__logo h1 {
+    color: #fff;
+    text-align: center;
+    width: 363px;
+    font-size: 34px;
+    margin-left: 100px;
+}
+.header__logo p {
+    color: #A7A7C8;
+    width: 395px;
+    margin-left: 100px;
+    font-size: 16px;
+}
+.header__log-left{
+    margin-left: 35px;
+}
+.header__log{
+    margin-left: 110px;
+}
+
+.andro{
+    margin-left: -96px;
+}
+.header__automation img {
+    bottom: 202px;
+    margin-left: -18px;
+}
+.ios__text {
+    text-align: center;
+    width: 556px;
+    margin-left: -3px;
+}
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5739px;
+    width: 174px;
+    left: 411px;
+}
+/* .blok{
+    margin-left: 110px;
+} */
+.footer__text p {
+    font-size: 10px;
+    margin-left: 75px;
+}
+.row {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.email p {
+    margin-top: 25px;
+    color: #fff;
+    padding-bottom: 25px;
+    width: 300px;
+    margin-left: 142px;
+}
+.email {
+    width: 593px;
+    margin-left: 260px;
+}
+.email h2 {
+    color: #fff;
+    width: 557px;
+    padding-bottom: 31px;
+    margin-left: 27px;
+}
+.regist p {
+    margin-top: 40px;
+    width: 508px;
+    padding-bottom: 31px;
+}
+}
+@media(max-width:748px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5738px;
+    width: 174px;
+    left: 400px;
+    }
+}
+@media(max-width:720px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5737px;
+        width: 174px;
+        left: 383px;
+    }
+}
+@media(max-width:696px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5730px;
+    width: 185px;
+    left: 365px;
+    }
+}
+@media(max-width:680px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5730px;
+        width: 185px;
+        left: 358px;
+    }
+}
+@media(max-width:650px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5735px;
+    width: 178px;
+    left: 347px;
+    }
+}
+@media(max-width:644px){
+    .header__name {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 41px;
+        padding-top: 26px;
+        margin-left: 10px;
+    }
+    .andro {
+        margin-left: -113px;
+    }
+    .email {
+        width: 593px;
+        margin-left: 245px;
+    }
+}
+@media(max-width:620px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5731px;
+    width: 178px;
+    left: 330px;
+    }
+}
+@media(max-width:600px){
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5734px;
+    width: 178px;
+    left: 321px;
+    }
+    .email {
+        width: 505px;
+        margin-left: 294px;
+    }
+    .email p {
+        margin-top: 25px;
+        color: #fff;
+        padding-bottom: 25px;
+        width: 281px;
+        margin-left: 114px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 480px;
+        padding-bottom: 31px;
+        margin-left: 18px;
+    }
+}
+@media(max-width:575px){
+    /* .blok {
+        margin-left: 58px;
+    } */
+    .ms {
+            display: flex;
+            margin-left: 53px;
+            margin-bottom: 31px;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 454px;
+    margin-left: 48px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5656px;
+    width: 178px;
+    left: 369px;
+    }
+    .email__but{
+        margin-right: 47px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 508px;
+        padding-bottom: 31px;
+        margin-left: 21px;
+    }
+}
+@media(max-width:552px){
+    .pgb {
+        display: block;
+        width: 500px;
+    margin-left: 15px;
+    }
+.android h2 {
+    margin-bottom: 45px;
+    font-size: 32px;
+}
+.android__text h3 {
+    font-size: 30px;
+    margin-bottom: 1px;
+}
+.android__text p {
+    margin-left: 23px;
+    font-size: 14px;
+    width: 522px;
+}
+.android__tex {
+    width: 533px;
+    font-size: 14px;
+}
+.ios__tex {
+    width: 533px;
+    font-size: 14px;
+}
+/* . {
+    margin-left: 112px;
+    width: 419px;
+} */
+.ultra {
+    text-align: center;
+    margin-top: 16px;
+    width: 437px;
+margin-left: 48px;
+}
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5575px;
+    width: 178px;
+    left: 350px;
+}
+.regist p {
+    margin-top: 40px;
+    width: 508px;
+    padding-bottom: 31px;
+    margin-left: 14px;
+}
+}
+@media(max-width:540px){
+    .pgb {
+        display: block;
+        width: 500px;
+        margin-left: 8px;
+    }
+    .header__logo{
+        margin-left: -21px;
+    }
+    .header__log {
+        margin-left: 101px;
+        
+    }
+    .header__automation {
+        display: block;
+        margin-left: 16px;
+    }
+    .header__automation img {
+        bottom: 175px;
+        margin-left: -18px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 337px;
+        justify-content: space-around;
+    }
+    .ios__text {
+        text-align: center;
+        width: 513px;
+        margin-left: 4px;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 278px;
+        bottom: 42px;
+    }
+    .ios .bat {
+        width: 485px;
+    }
+    .android__tex {
+        width: 509px;
+        font-size: 14px;
+    }
+    .ios__but .but {
+        margin-top: 16px;
+        margin-left: -49px;
+        width: 276px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -173px;
+        width: 480px;
+        height: 640px;
+        /* margin-right: -24px; */
+        margin-bottom: 66px;
+    }
+    .email {
+        width: 450px;
+        margin-left: 319px;
+    }
+    .email__name{
+        display: flex;
+        flex-direction: column;
+    }
+    .email p {
+        margin-top: 25px;
+        color: #fff;
+        padding-bottom: 25px;
+        width: 281px;
+        margin-left: 91px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 444px;
+        padding-bottom: 31px;
+        margin-left: 5px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 442px;
+        padding-bottom: 31px;
+        margin-left: 36px;
+    }
+
+}
+@media(max-width:535px){
+    .ms {
+        display: flex;
+        margin-left: 28px;
+        margin-bottom: 31px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5649px;
+        width: 178px;
+        left: 335px;
+    
+    }
+    .ultra {
+        text-align: center;
+         margin-top: 16px;
+        width: 421px;
+        margin-left: 48px;
+}
+}
+@media (max-width: 529px){
+    .header__name {
+        margin-left: -11px;
+    }
+    .pgb {
+        display: block;
+        width: 500px;
+        margin-left: 3px;
+    }
+    .header__automation {
+        display: block;
+        margin-left: 15px;
+    }
+    .header__automation img {
+        bottom: 175px;
+        margin-left: -18px;
+    }
+    .header__logo{
+        margin-left: -21px;
+    }
+    
+    .android__text p {
+        margin-left: 23px;
+        font-size: 14px;
+        width: 490px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 321px;
+        justify-content: space-around;
+    }
+    .android__but .but {
+        margin-left: -51px;
+        width: 276px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 24px;
+        margin-bottom: 31px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -183px;
+        width: 480px;
+        height: 640px;
+        
+        margin-bottom: 66px;
+    }
+    .ios__text {
+        text-align: center;
+        width: 478px;
+        margin-left: 4px;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 263px;
+        bottom: 42px;
+    }
+    .ios p {
+        margin-left: 26px;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    .ios .bat {
+        width: 448px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5573px;
+        width: 178px;
+        left: 337px;
+    }
+    .email {
+        width: 439px;
+        margin-left: 316px;
+    }
+    .email p {
+        margin-top: 25px;
+        color: #fff;
+        padding-bottom: 25px;
+        width: 281px;
+        margin-left: 84px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 480px;
+        padding-bottom: 31px;
+        margin-left: -19px;
+    }
+}   
+@media(max-width:505px){
+    .header__name {
+        margin-left: -35px;
+    }
+    .pgb {
+        display: block;
+        width: 450px;
+        margin-left: 11px;
+    }
+    .header__logo {
+        margin-left: -50px;
+    }
+    .header__log {
+        margin-left: 84px;
+    }
+    .header__automation {
+        display: block;
+        margin-left: -8px;
+    }
+    .android__text p {
+        margin-left: 23px;
+        font-size: 14px;
+        width: 465px;
+    }
+    .android__tex {
+        width: 485px;
+        font-size: 14px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 33px;
+        margin-bottom: 31px;
+        width: 450px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -175px;
+        width: 450px;
+        height: 600px;
+        margin-bottom: 66px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 315px;
+        justify-content: space-around;
+    }
+    .ios__tex{
+        width: 485px;
+        font-size: 14px;
+    }
+    /* .blok {
+        margin-left: 86px;
+        width: 419px;
+    } */
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 396px;
+        margin-left: 42px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5592px;
+        width: 178px;
+        left: 303px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 60px;
+    }
+}
+@media(max-width:496px){
+    .pgb {
+        display: block;
+        width: 450px;
+        margin-left: 6px;
+    }
+    .header__name{
+        margin-left: -33px;
+    }
+    .header__automation img {
+        bottom: 171px;
+        margin-left: -18px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 24px;
+        margin-bottom: 31px;
+        width: 450px;
+    }
+    .ios__text {
+        text-align: center;
+        width: 454px;
+        margin-left: 4px;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 244px;
+        bottom: 42px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -155px;
+        width: 450px;
+        height: 600px;
+        margin-bottom: 66px;
+    }
+    .ios .bat {
+        width: 435px;
+    }
+    .ios__but {
+        display: flex;
+        width: 186px;
+        margin-left: 160px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5682px;
+        width: 178px;
+        left: 305px;
+    }
+    .email {
+        width: 439px;
+        margin-left: 300px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 442px;
+        padding-bottom: 31px;
+        margin-left: 17px;
+    }
+}
+@media(max-width:480px){
+    .header__logo {
+        margin-left: -50px;
+    }
+    .pgb {
+        display: block;
+        width: 450px;
+        margin-left: 2px;
+    }
+    .header__log {
+        margin-left: 80px;
+    }
+    .android__but .but {
+        margin-left: -30px;
+        width: 243px;
+    }
+    .android__but {
+        display: flex;
+        width: 186px;
+        margin-left: 152px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .ms {
+        display: flex;
+        margin-left: 24px;
+        margin-bottom: 31px;
+        width: 430px;
+    }
+    .android__text p {
+        margin-left: 23px;
+        font-size: 14px;
+        width: 422px;
+    }
+    .android__tex {
+        width: 462px;
+        font-size: 14px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 304px;
+        justify-content: space-around;
+    }
+    .ios__text {
+        text-align: center;
+        width: 416px;
+        margin-left: 4px;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 232px;
+        bottom: 42px;
+    }
+    .ios__tex {
+        width: 462px;
+        font-size: 14px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -155px;
+        width: 430px;
+        height: 573px;
+        margin-bottom: 66px;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 373px;
+        margin-left: 42px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5747px;
+        width: 178px;
+        left: 280px;
+    }
+    .footer__text p {
+        font-size: 10px;
+    margin-left: 88px;
+    width: 305px;
+    }
+    .email__name {
+        display: flex;
+        flex-direction: column;
+        margin-right: 12px;
+    }
+    .email {
+        width: 417px;
+        margin-left: 298px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 447px;
+        padding-bottom: 31px;
+        margin-left: -15px;
+    }
+}
+@media(max-width:473px){
+    .pgb {
+        display: block;
+        width: 445px;
+        margin-left: 2px;
+    }
+    .header__automation img{
+        bottom: 200px;
+        margin-left: -18px;
+    }
+}
+@media (max-width: 463px){
+    .header__logo {
+        margin-left: -70px;
+    }
+    .header__name {
+        margin-left: -54px;
+    }
+    .pgb {
+        display: block;
+        width: 435px;
+        margin-left: 2px;
+    }
+    .header__log {
+        margin-left: 65px;
+    }
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5789px;
+    width: 178px;
+    left: 280px;
+}
+.regist p {
+    margin-top: 40px;
+    width: 399px;
+    padding-bottom: 31px;
+    margin-left: 17px;
+}
+}
+@media(max-width:460px){
+    .header__logo {
+        margin-left: -70px;
+    }
+    .header__name {
+        margin-left: -54px;
+    }
+    .pgb {
+        display: block;
+        width: 435px;
+        margin-left: 2px;
+    }
+    .header__log {
+        margin-left: 65px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 19px;
+        margin-bottom: 31px;
+        width: 420px;
+    }
+    .ios__tex {
+        width: 462px;
+        font-size: 14px;
+        margin-left: -31px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -131px;
+        width: 420px;
+        height: 560px;
+        margin-bottom: 66px;
+    }
+    .ios__but {
+        display: flex;
+        width: 186px;
+        margin-left: 132px;
+        flex-direction: column;
+        text-align: center;
+    }
+    /* .blok {
+        margin-left: 58px;
+        width: 419px;
+    } */
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 361px;
+        margin-left: 38px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5776px;
+        width: 178px;
+        left: 264px;
+    }
+    .email {
+        width: 400px;
+        margin-left: 302px;
+    }
+
+    .email input {
+        /* margin-left: 120px; */
+        width: 369px;
+        height: 45px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid #564FFF; */
+        border-radius: 3px;
+        font-size: 12px;
+    }
+    .email p {
+        margin-top: 25px;
+        color: #fff;
+        padding-bottom: 25px;
+        width: 281px;
+        margin-left: 62px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 389px;
+        padding-bottom: 31px;
+        margin-left: 2px;
+    }
+}
+@media(max-width:450px){
+    .header__logo {
+        margin-left: -70px;
+    }
+    .header__name {
+        margin-left: -54px;
+    }
+    .pgb {
+        display: block;
+        width: 425px;
+        margin-left: -1px;
+    }
+    .header__log {
+        margin-left: 65px;
+    }
+    .android__tex {
+        width: 434px;
+        font-size: 14px;
+    }
+    .android__text p {
+        margin-left: 20px;
+        font-size: 14px;
+        width: 410px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 19px;
+        margin-bottom: 31px;
+        width: 410px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 289px;
+        justify-content: space-around;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 77px;
+    }
+    .regist input {
+        width: 380px;
+        height: 45px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid  rgb(218, 33, 33); */
+        border-radius: 3px;
+        font-size: 12px;
+        margin-top: 40px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 399px;
+        padding-bottom: 31px;
+        margin-left: 12px;
+    }
+}
+@media (max-width: 440px){
+    .header__name {
+        margin-left: -65px;
+    }
+    .pgb {
+        display: block;
+        width: 415px;
+        margin-left: -1px;
+    }
+    .header__logo p {
+        width: 385px;
+        margin-left: 100px;
+    }
+    .header__log {
+        margin-left: 57px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 19px;
+        margin-bottom: 31px;
+        width: 400px;
+    }
+    .sio{
+        display: flex;
+        position: relative;
+        left: -131px;
+        width: 400px;
+        height: 560px;
+    }
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5801px;
+    width: 178px;
+    left: 246px;
+}
+.ultra {
+    text-align: center;
+    margin-top: 16px;
+    width: 341px;
+    margin-left: 38px;
+}
+.email {
+    width: 400px;
+    margin-left: 289px;
+}
+}
+@media(max-width:430px){
+    .header__logo {
+        margin-left: -80px;
+    }
+    .header__logo h1 {
+        font-size: 32px;
+    }
+    .header__logo p {
+        width: 364px;
+        margin-left: 101px;
+        font-size: 14px;
+    }
+    .header__name {
+        margin-left: -70px;
+    }
+    .pgb {
+        display: block;
+        width: 405px;
+        margin-left: -1px;
+    }
+    .header__log {
+        margin-left: 50px;
+    }
+    .android__text p {
+        margin-left: 20px;
+        font-size: 12px;
+        width: 398px;
+    }
+    .android__tex {
+        width: 423px;
+        font-size: 12px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 283px;
+        justify-content: space-around;
+    }
+    .ms {
+        display: flex;
+        margin-left: 15px;
+        margin-bottom: 31px;
+        width: 400px;
+    }
+    .android__but .but {
+        margin-left: -44px;
+        width: 243px;
+    }
+    .ios__tex {
+        width: 423px;
+        font-size: 12px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -135px;
+        width: 400px;
+        height: 560px;
+    }
+    .ios__tex {
+        width: 423px;
+        font-size: 12px;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 220px;
+        bottom: 42px;
+    }
+    .ios .bat {
+        width: 405px;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 332px;
+        margin-left: 38px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5622px;
+        width: 170px;
+        left: 240px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 66px;
+    }
+    .regist input {
+        width: 364px;
+        height: 45px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid #564FFF; */
+        border-radius: 3px;
+        font-size: 12px;
+        margin-top: 40px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 399px;
+        padding-bottom: 31px;
+        margin-left: 4px;
+    }
+
+}
+@media (max-width: 420px){
+    .pgb {
+        display: block;
+        width: 385px;
+        margin-left: 8px;
+    }
+.header__logo p {
+    font-size: 12px;
+    width: 327px;
+    margin-left: 126px;
+}
+.android__tex {
+    width: 407px;
+    font-size: 12px;
+}
+.android__text p {
+    margin-left: 20px;
+    font-size: 12px;
+    width: 389px;
+}
+.android__but {
+    width: 186px;
+    margin-left: 128px;
+}
+.ms {
+    display: flex;
+    margin-left: 19px;
+    margin-bottom: 31px;
+    width: 380px;
+}
+.igm {
+    position: relative;
+    display: flex;
+    bottom: 37px;
+    margin-left: 272px;
+    justify-content: space-around;
+}
+.ios .bat {
+    width: 389px;
+}
+.sio {
+    display: flex;
+    position: relative;
+    left: -117px;
+    width: 380px;
+    height: 560px;
+}
+.ios__but {
+    display: flex;
+    width: 186px;
+    margin-left: 116px;
+    flex-direction: column;
+    text-align: center;
+}
+/* .blok {
+    margin-left: 58px;
+    width: 385px;
+} */
+.ultra {
+    text-align: center;
+    margin-top: 16px;
+    width: 323px;
+}
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5624px;
+    width: 170px;
+    left: 231px;
+}
+.email {
+    width: 350px;
+    margin-left: 301px;
+}
+.email input {
+    /* margin-left: 120px; */
+    width: 321px;
+    height: 45px;
+    background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+    color: #fff;
+    /* border: 1px solid #564FFF; */
+    border-radius: 3px;
+    font-size: 12px;
+}
+.email p {
+    margin-top: 25px;
+    color: #fff;
+    padding-bottom: 25px;
+    width: 281px;
+    margin-left: 35px;
+}
+.email h2 {
+    color: #fff;
+    width: 329px;
+    padding-bottom: 31px;
+    margin-left: 9px;
+}
+.regist p {
+    margin-top: 40px;
+    width: 370px;
+    padding-bottom: 31px;
+    margin-left: 7px;
+}
+}
+@media(max-width:400px){
+    .header__name {
+        margin-left: -88px;
+    }
+    .pgb {
+        display: block;
+        width: 375px;
+        margin-left: 1px;
+    }
+    .header__log {
+        margin-left: 36px;
+        font-size: 15px;
+    }
+    .android h2 {
+        margin-bottom: 45px;
+        font-size: 24px;
+    }
+    .android__text p {
+        margin-left: 17px;
+        font-size: 12px;
+        width: 362px;
+    }
+    .android__tex {
+        width: 386px;
+        font-size: 12px;
+    }
+    .igm {
+    position: relative;
+    display: flex;
+    bottom: 37px;
+    margin-left: 256px;
+    justify-content: space-around;
+}
+.ms {
+    display: flex;
+    margin-left: 16px;
+    margin-bottom: 31px;
+    width: 370px;
+}
+.ios__tex {
+    width: 386px;
+    font-size: 12px;
+}
+.sio {
+    display: flex;
+    position: relative;
+    left: -117px;
+    width: 370px;
+    height: 560px;
+}
+.ios .bat {
+    width: 352px;
+}
+.iso {
+    position: relative;
+    display: flex;
+    margin-left: 204px;
+    bottom: 42px;
+}
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5591px;
+    width: 170px;
+    left: 229px;
+}
+.footer__text p {
+    font-size: 10px;
+    margin-left: 69px;
+    width: 247px;
+}
+.email {
+    width: 350px;
+    margin-left: 293px;
+}
+.regist input {
+    width: 329px;
+    height: 45px;
+    background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+    color: #fff;
+    /* border: 1px solid #564FFF; */
+    border-radius: 3px;
+    font-size: 12px;
+    margin-top: 40px;
+}
+.regist p {
+    margin-top: 40px;
+    width: 330px;
+    padding-bottom: 31px;
+    margin-left: 20px;
+}
+}
+@media(max-width:392px){
+    .pgb {
+        display: block;
+        width: 365px;
+        margin-left: 1px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 12px;
+        margin-bottom: 31px;
+        width: 365px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -117px;
+        width: 365px;
+        height: 560px;
+    }
+    .email__but {
+        display: flex;
+        margin-right: 40px;
+    }
+    .tg{
+        margin-right: 10px;
+    }
+    .email {
+        width: 350px;
+        margin-left: 288px;
+    }
+    .email__but button {
+        padding: 12px 13px;
+        border: 1px solid rgb(218, 33, 33);
+        font-size: 14px;
+        border-radius: 5px;
+        background: rgba(86, 79, 255, 0.15);
+        color: #fff;
+        transition: 0.5s;
+    }
+}
+@media(max-width:382px){
+    .header__name {
+        margin-left: -103px;
+    }
+    .header__logo {
+        margin-left: -100px;
+    }
+    .header__log {
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .header__automation p {
+        padding-left: 10px;
+        padding-bottom: 54px;
+        font-size: 15px;
+    }
+    .header__automation img {
+        bottom: 185px;
+        margin-left: -18px;
+    }
+    .pgb {
+        display: block;
+        width: 350px;
+        margin-left: -1px;
+    }
+    .android__tex {
+        width: 371px;
+        font-size: 12px;
+    }
+    .android__text p {
+        margin-left: 17px;
+        font-size: 12px;
+        width: 345px;
+    }
+    .android__but {
+        width: 186px;
+        margin-left: 111px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 19px;
+        margin-bottom: 31px;
+        width: 345px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -117px;
+        width: 345px;
+        height: 560px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 256px;
+        justify-content: space-around;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 296px;
+        margin-left: 31px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5591px;
+        width: 170px;
+        left: 197px;
+    }
+    .email {
+        width: 320px;
+        margin-left: 300px;
+    }
+    .email h1 {
+        color: #fff;
+        font-size: 32px;
+        margin-bottom: 40px;
+        /* margin-top: 64px; */
+    }
+    .email input {
+        /* margin-left: 120px; */
+        width: 299px;
+        height: 41px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid #564FFF; */
+        border-radius: 3px;
+        font-size: 10px;
+    }
+    .email__bat {
+        margin-top: 20px;
+        background: rgb(218, 33, 33);
+        border: 1px solid rgb(218, 33, 33);
+        border-radius: 5px;
+        padding: 13px 22px;
+        color: #fff;
+        width: 126px;
+    }
+    .email p {
+        margin-top: 25px;
+        color: #fff;
+        padding-bottom: 25px;
+        width: 248px;
+        margin-left: 32px;
+    }
+    .email h2 {
+        color: #fff;
+        width: 282px;
+        padding-bottom: 31px;
+        margin-left: 21px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 300px;
+        padding-bottom: 31px;
+        margin-left: 26px;
+    }
+    .regist input {
+        width: 300px;
+        height: 45px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid #564FFF; */
+        border-radius: 3px;
+        font-size: 12px;
+        margin-top: 40px;
+    }
+}
+@media(max-width:368px){
+    .pgb {
+        display: block;
+        width: 330px;
+        margin-left: 5px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 14px;
+        margin-bottom: 31px;
+        width: 340px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -117px;
+        width: 340px;
+        height: 560px;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 281px;
+        margin-left: 31px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5636px;
+        width: 170px;
+        left: 179px;
+    }
+    .email {
+        width: 320px;
+        margin-left: 294px;
+    }
+    .regist h1{
+        font-size: 24px;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 260px;
+        padding-bottom: 31px;
+        margin-left: 44px;
+    }
+}
+@media(max-width:360px){
+    .header__but {
+        margin-left: 107px;
+    }
+    .header__logo {
+        margin-left: -112px;
+    }
+    .header__log {
+        margin-left: 13px;
+        font-size: 15px;
+    }
+    
+    .header__automation {
+        display: block;
+        margin-left: 8px;
+    }
+    
+    .pgb {
+        display: block;
+        width: 330px;
+        margin-left: 3px;
+    }
+    .android__text p {
+        margin-left: 17px;
+        font-size: 12px;
+        width: 321px;
+    }
+    .android__tex {
+        width: 340px;
+        font-size: 12px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 11px;
+        margin-bottom: 31px;
+        width: 335px;
+    }
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 244px;
+        justify-content: space-around;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -90px;
+        width: 340px;
+        height: 560px;
+    }
+    .ios__tex {
+        width: 340px;
+        font-size: 12px;
+    }
+    .ios__text p {
+        margin-left: 17px;
+        font-size: 12px;
+        width: 295px;
+    }
+    .ios .bat {
+        width: 313px;
+    }
+    .ios__but {
+        display: flex;
+        width: 186px;
+        margin-left: 83px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .iso {
+        position: relative;
+        display: flex;
+        margin-left: 180px;
+        bottom: 42px;
+    }
+    /* .blok {
+        margin-left: 30px;
+        width: 351px;
+    } */
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 276px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5587px;
+        width: 170px;
+        left: 176px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 55px;
+        width: 247px;
+    }
+    .email {
+        width: 320px;
+        margin-left: 290px;
+    }
+    .regist input {
+        width: 285px;
+        height: 45px;
+        background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+        color: #fff;
+        /* border: 1px solid #564FFF; */
+        border-radius: 3px;
+        font-size: 12px;
+        margin-top: 40px;
+    }
+}
+@media (max-width: 354px){
+    .pgb {
+        display: block;
+        width: 330px;
+        margin-left: -3px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 11px;
+        margin-bottom: 31px;
+        width: 330px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -90px;
+        width: 330px;
+        height: 560px;
+    }
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5665px;
+    width: 170px;
+    left: 176px;
+    }
+    .email__but button {
+        padding: 12px 12px;
+        border: 1px solid rgb(218, 33, 33);
+        font-size: 14px;
+        border-radius: 5px;
+        background: rgba(86, 79, 255, 0.15);
+        color: #fff;
+        transition: 0.5s;
+    }
+    .email {
+        width: 320px;
+        margin-left: 286px;
+    }
+}
+@media(max-width:350px){
+    .pgb {
+        display: block;
+        width: 320px;
+        margin-left: 3px;
+    }
+    .header__log-left p {
+        width: 165px;
+    }
+    .header__log {
+        margin-left: 24px;
+        font-size: 15px;
+    }
+    .header__but {
+        margin-left: 100px;
+    }
+    .header__logo h1 {
+        font-size: 25px;
+    }
+    .header__automation h2 {
+        font-size: 25px;
+    }
+    
+    .igm {
+        position: relative;
+        display: flex;
+        bottom: 37px;
+        margin-left: 233px;
+        justify-content: space-around;
+    }
+    .ultra {
+        text-align: center;
+        margin-top: 16px;
+        width: 265px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5656px;
+        width: 170px;
+        left: 167px;
+    }
+    .redrock__but {
+    text-align: center;
+    /* justify-content: space-between; */
+    width: 326px;
+}
+.redrock__but button {
+    color: #fff;
+    font-size: 14px;
+    background: rgba(86, 79, 255, 0.25);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+    padding: 19px 44px;
+    transition: 0.5s;
+    width: 133px;
+}
+.email input {
+    /* margin-left: 120px; */
+    width: 276px;
+    height: 34px;
+    background: linear-gradient(180deg, #39367e6b 0%, rgba(30, 34, 66, 0) 100%);
+    color: #fff;
+    /* border: 1px solid rgb(218, 33, 33); */
+    border-radius: 3px;
+    font-size: 10px;
+}
+.email__bat {
+    margin-top: 20px;
+    background: rgb(218, 33, 33);
+    border: 1px solid  rgb(218, 33, 33);
+    border-radius: 5px;
+    padding: 10px 17px;
+    color: #fff;
+    width: 123px;
+}
+.email h2 {
+    color: #fff;
+    width: 252px;
+    padding-bottom: 31px;
+    margin-left: 32px;
+}
+.email__but button {
+    padding: 12px 8px;
+    border: 1px solid  rgb(218, 33, 33);
+    font-size: 14px;
+    border-radius: 5px;
+    background: rgba(86, 79, 255, 0.15);
+    color: #fff;
+    transition: 0.5s;
+}
+.regist p {
+    margin-top: 40px;
+    width: 260px;
+    padding-bottom: 31px;
+    margin-left: 37px;
+}
+}
+@media(max-width:342px){
+    .pgb {
+        display: block;
+        width: 310px;
+        margin-left: 2px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 11px;
+        margin-bottom: 31px;
+        width: 320px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -90px;
+        width: 320px;
+        height: 560px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5705px;
+        width: 170px;
+        left: 166px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 40px;
+        width: 247px;
+    }
+    .email {
+        width: 320px;
+        margin-left: 280px;
+    }
+}
+@media(max-width:340px){
+.pgb {
+    display: block;
+    width: 310px;
+    margin-left: 2px;
+}
+.header__logo {
+    margin-left: -125px;
+}
+.android__tex {
+    width: 320px;
+    font-size: 12px;
+}
+.android__text p {
+    margin-left: 17px;
+    font-size: 12px;
+    width: 307px;
+}
+.android__but {
+    width: 186px;
+    margin-left: 82px;
+}
+.ms {
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 31px;
+    width: 320px;
+}
+.sio {
+    display: flex;
+    position: relative;
+    left: -73px;
+    width: 320px;
+    height: 560px;
+}
+.ios__tex {
+    width: 320px;
+    font-size: 12px;
+}
+.ios__text p {
+    margin-left: -2px;
+    font-size: 12px;
+    width: 307px;
+}
+.iso {
+    position: relative;
+    display: flex;
+    margin-left: 174px;
+    bottom: 42px;
+}
+.ios__but {
+    display: flex;
+    width: 186px;
+    margin-left: 65px;
+    flex-direction: column;
+    text-align: center;
+}
+.ios .bat {
+    width: 313px;
+}
+/* .blok {
+    margin-left: 30px;
+    width: 308px;
+} */
+.ultra {
+    text-align: center;
+    margin-top: 16px;
+    width: 259px;
+}
+.ultra__text img {
+    /* padding-left: 98px; */
+    top: 5712px;
+    width: 162px;
+    left: 164px;
+}
+.footer__text p {
+    font-size: 10px;
+    margin-left: 40px;
+    width: 247px;
+}
+.footer__img {
+    margin-top: 37px;
+    width: 317px;
+    margin-left: -11px;
+}
+.email {
+    width: 300px;
+    margin-left: 290px;
+}
+}
+@media(max-width:337px){
+    .ms {
+        display: flex;
+        margin-left: 10px;
+        margin-bottom: 31px;
+        width: 315px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -73px;
+        width: 315px;
+        height: 560px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5760px;
+        width: 162px;
+        left: 163px;
+    }
+}
+@media(max-width:334px){
+    .email {
+        width: 300px;
+        margin-left: 283px;
+    }
+    .email__but button {
+        padding: 11px 7px;
+        border: 1px solid  rgb(218, 33, 33);
+        font-size: 14px;
+        border-radius: 5px;
+        background: rgba(86, 79, 255, 0.15);
+        color: #fff;
+        transition: 0.5s;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 260px;
+        padding-bottom: 31px;
+        margin-left: 26px;
+    }
+}
+@media(max-width:330px){
+    .header__but {
+        margin-left: 89px;
+    }
+    .pgb {
+        display: block;
+        width: 310px;
+        margin-left: -3px;
+    }
+    .header__logo p {
+        font-size: 12px;
+        width: 295px;
+        margin-left: 142px;
+    }
+    .android__tex {
+        width: 320px;
+        font-size: 12px;
+    }
+    .android__text p {
+        margin-left: 17px;
+        font-size: 12px;
+        width: 307px;
+    }
+    .android__but {
+        width: 186px;
+        margin-left: 82px;
+    }
+    .ms {
+        display: flex;
+        margin-left: 10px;
+        margin-bottom: 31px;
+        width: 310px;
+    }
+    .sio {
+        display: flex;
+        position: relative;
+        left: -70px;
+        width: 310px;
+        height: 560px;
+    }
+    .ios__tex {
+        width: 339px;
+        font-size: 12px;
+    }
+    .ultra__text img {
+        /* padding-left: 98px; */
+        top: 5780px;
+        width: 162px;
+        left: 163px;
+    }
+    .footer__text p {
+        font-size: 10px;
+        margin-left: 40px;
+        width: 247px;
+    }
+    .email__but button {
+        padding: 11px 6px;
+        border: 1px solid  rgb(218, 33, 33);
+        font-size: 14px;
+        border-radius: 5px;
+        background: rgba(86, 79, 255, 0.15);
+        color: #fff;
+        transition: 0.5s;
+    }
+    .regist p {
+        margin-top: 40px;
+        width: 260px;
+        padding-bottom: 31px;
+        margin-left: 26px;
+    }
+    } 
